@@ -1,4 +1,9 @@
-## Module 1 Capstone - Vending Machine Software
+# Module 1 Capstone - Vending Machine Software
+## Project Info
+
+Project was developed in C# using command line I/O. This was developed with a partner over a 3 day period.
+
+## Project was created with following requirements:
 
 You've been asked to develop an application for the newest vending machine distributor,
 Umbrella Corp. They've released a new vending machine, Vendo-Matic 800, that is integrated
