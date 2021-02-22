@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2HYhlvI9Fh6izjGPtYvJjkL7NEAvZDPJb0N5ZB+Dqai6emDhPrNeBXF0Wxosbt9NnixuwcuFVBvCa35gFDddNg==",
+  "dgSpecHash": "NDPsyWIeyG3DKs0ubFTOpr5cUmdoOe4mugJtQaaedzv2fJsxsTBt5/q2qjAKSXn0/PPp+Nod4v0mG51J97jEQA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Student\\workspace\\side-projects\\Vending Machine\\CapstoneTests\\CapstoneTests.csproj",
+  "projectFilePath": "C:\\Users\\Student\\workspace\\projects\\Vending Machine\\CapstoneTests\\CapstoneTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Student\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
